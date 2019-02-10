@@ -1,0 +1,73 @@
+body {
+	background-color: #eeeeee;
+	background-image: url("neil-iris-1322261-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	}
+
+.clear {
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+.subscribe:hover {
+	background-color: white;
+	color: #c5d1a9;
+	cursor: pointer;
+	transform: scale(1.1);
+}
+
+.subscribe {
+	background-color: #c5d1a9;
+	border: none;
+	border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+
+}
+
+.title {
+	display: flex;
+	justify-content: center;
+	margin-top: 350px;
+}
+
+.slogan {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 5px;
+}
+
+h1 {
+	color: white;
+	font-family: 'Major Mono Display', monospace;
+	text-align: center;
+
+}
+
+h2 {
+	color: white;
+	font-family: 'Major Mono Display', monospace;
+	font-size: 24px;
+	text-align: center;
+	font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
